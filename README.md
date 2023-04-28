@@ -18,5 +18,5 @@ Currently, still in testing phase.
 TBD
 
 ## Credit and Thanks
-- DavieDav, for a wonderful explanation!
+- DavieDav, for a wonderful tutorial series!
 - Google
